@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/finanzo-web/static/css/main.17cd7350.css",
+    "main.js": "/finanzo-web/static/js/main.25e8a14b.js",
+    "index.html": "/finanzo-web/index.html",
+    "main.17cd7350.css.map": "/finanzo-web/static/css/main.17cd7350.css.map",
+    "main.25e8a14b.js.map": "/finanzo-web/static/js/main.25e8a14b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17cd7350.css",
+    "static/js/main.25e8a14b.js"
+  ]
+}
